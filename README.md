@@ -7,7 +7,7 @@ Linters
 Git/Github
 Live Demo Link
 
-#### Getting Started
+### Getting Started
 Live Demo Link  
 
 #### Getting Started
