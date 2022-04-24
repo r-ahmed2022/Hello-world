@@ -11,9 +11,12 @@ Live Demo Link
 Live Demo Link  
 
 #### Getting Started
-#### This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
+Instructions on how to access my project locally. To Access my project locally please follow the following instructions;
 
-To get a local copy up and running follow these simple example steps.
+Enter this url: https://github.com/r-ahmed2022/Hello-world in your web browser.
+Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
+Select download Zip option from drop down menu.
+Once the download is complete you will be able to access my project locally.
 
 ## Prerequisites
 Knowledge about Basic HTML/CSS
